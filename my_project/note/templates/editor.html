@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en" class="u-responsive-xs"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Hi!, Welcome to this web!">
+    <meta name="description" content="">
+    <title>Home</title>
+    <link rel="stylesheet" href="static\nicepage.css" media="screen">
+<link rel="stylesheet" href="static\Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="static\jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="static\nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 5.11.4, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site1",
+		"logo": "static/images/1.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Home">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-cfb9"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="500" data-image-height="500">
+          <img src="static/images/1.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1 u-enable-responsive">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item active"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base active" style="padding: 10px 20px;">Home</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10"><li class="u-nav-item active"><a class="u-button-style u-nav-link u-white active" href="templates\Home.html#sec-dfa7">This is Home</a>
+</li></ul>
+</div>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item active"><a class="u-button-style u-nav-link active">Home</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10"><li class="u-nav-item active"><a class="u-button-style u-nav-link active" href="Home.html#sec-dfa7">This is Home</a>
+</li></ul>
+</div>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        <style class="offcanvas-style">            .u-offcanvas .u-sidenav { flex-basis: 250px !important; }            .u-offcanvas:not(.u-menu-open-right) .u-sidenav { margin-left: -250px; }            .u-offcanvas.u-menu-open-right .u-sidenav { margin-right: -250px; }            @keyframes menu-shift-left    { from { left: 0;        } to { left: 250px;  } }            @keyframes menu-unshift-left  { from { left: 250px;  } to { left: 0;        } }            @keyframes menu-shift-right   { from { right: 0;       } to { right: 250px; } }            @keyframes menu-unshift-right { from { right: 250px; } to { right: 0;       } }            </style></nav>
+      </div></header>
+    <section class="u-clearfix u-custom-color-1 u-section-1 active" id="sec-dfa7">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-expanded-height-xl u-image u-image-default u-image-1" src="static/images/18c7adab4126a94f16756a8ee56de772.jpg" alt="" data-image-width="360" data-image-height="720">
+        <h1 class="u-text u-text-custom-color-2 u-text-default u-text-1">Hi!</h1>
+        <h2 class="u-text u-text-custom-color-2 u-text-default u-text-2">Welcome to this web!</h2>
+        <div class="u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+                <div class="u-border-6 u-border-custom-color-3 u-container-style u-custom-item u-group u-radius-24 u-shape-round u-group-1" data-href="Home.html#sec-e76c">
+                  <div class="u-container-layout u-container-layout-2">
+                    <p class="u-text u-text-custom-color-3 u-text-3">SCHEDULES</p>
+                    <div class="u-border-3 u-border-custom-color-3 u-line u-line-horizontal u-line-1"></div>
+                    <p class="u-custom-font u-font-montserrat u-text u-text-custom-color-3 u-text-4">Arrange your own schedules</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <div class="u-border-6 u-border-custom-color-3 u-container-style u-custom-item u-group u-radius-24 u-shape-round u-group-2" data-href="Home.html#sec-e76c">
+                  <div class="u-container-layout u-container-layout-4">
+                    <p class="u-text u-text-custom-color-3 u-text-5">TO DO LIST</p>
+                    <div class="u-border-3 u-border-custom-color-3 u-line u-line-horizontal u-line-2"></div>
+                    <p class="u-custom-font u-font-montserrat u-text u-text-custom-color-3 u-text-6">Make your own list</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
+                <div class="u-border-6 u-border-custom-color-3 u-container-style u-custom-item u-group u-radius-24 u-shape-round u-group-3">
+                  <div class="u-container-layout u-container-layout-6">
+                    <p class="u-text u-text-custom-color-3 u-text-7">DIARY</p>
+                    <div class="u-border-3 u-border-custom-color-3 u-line u-line-horizontal u-line-3"></div>
+                    <p class="u-custom-font u-font-montserrat u-text u-text-custom-color-3 u-text-8">Write your daily diary</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-image u-shading u-section-2" src="" data-image-width="564" data-image-height="317" id="sec-e76c">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-text u-text-default u-title u-text-1">TAKE YOUR NOTE!</h1>
+        <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Write your stories here!</p>
+        <a href="#" class="u-border-none u-btn u-btn-round u-button-style u-gradient u-none u-radius-6 u-btn-1">Read More</a>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-custom-color-1 u-section-3" id="sec-4bf9">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-59 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1">
+                  <h1 class="u-text u-text-body-alt-color u-text-default u-text-1">Welcome!</h1>
+                  <section class="section">
+                    <div class="columns">
+                        <div class="column is-10">
+                            <aside class="menu">
+                                <p style="font-family=Montserrat; font-size=30px" class="menu-label">DOCUMENTS</p>
+          
+                                <ul class="menu-list">
+                                    {% for doc in documents %}
+                                        <li>
+                                            <a href="{% url 'editor' %}?docid={{ doc.id }}">{{ doc.title }}</a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            </aside>
+                        </div>
+            
+                        <div class="column is-50">
+                            <form method="post" action="{% url 'editor' %}">
+                                {% csrf_token %}
+            
+                                <input type="hidden" name="docid" value="{{ docid }}">
+            
+                                <div class="field">
+                                    <label class="label">
+                                        Title
+            
+                                        {% if document %}
+                                            <span class="has-text-plum-light">
+                                                Created at: {{ document.created_at|date:"m/d Y" }} / 
+                                                Modified at: {{ document.modified_at|date:"m/d Y" }}
+                                            </span>
+                                        {% endif %}
+                                    </label>
+            
+                                    <div class="control">
+                                        <input style="font-family=Montserrat; font-size=15px" type="text" class="input" name="title" placeholder="Title"{% if document %} value="{{ document.title }}"{% endif %}>
+                                    </div>
+                                </div>
+            
+                                <div class="field">
+                                    <label class="label">Content</label>
+            
+                                    <div class="control">
+                                        <textarea class="textarea" name="content" placeholder="Content">{% if document %}{{ document.content }}{% endif %}</textarea>
+                                    </div>
+                                </div>
+            
+                                <div class="field is-grouped">
+                                    <div class="control">
+                                        <button class="button is-primary">Save</button>
+                                    </div>
+                                    {% if document %}
+                                        <div class="control">
+                                            <a href="{% url 'delete_document' document.id %}" class="button is-danger">Delete</a>
+                                        </div>
+                                    {% endif %}
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </section>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-1 u-layout-cell-2">
+                <div class="u-container-layout u-valign-middle u-container-layout-2"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+    
+    <footer class="u-align-center u-clearfix u-custom-color-5 u-footer u-footer" id="sec-8f25"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">THANKS</p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  
+<style>.u-disable-duration * {transition-duration: 0s !important;}</style></body></html>
